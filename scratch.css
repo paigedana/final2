@@ -1,0 +1,48 @@
+body{
+    /* background-image: url(https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/89075e71-3d23-411e-8126-f8a329cc4d18/dcqozqa-e04d51b7-8bf6-4a05-b190-ffed81b29a36.png/v1/fill/w_1024,h_576,q_80,strp/jeopardy_indonesia_2018___2019_board_blank_by_ilmi031_dcqozqa-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NTc2IiwicGF0aCI6IlwvZlwvODkwNzVlNzEtM2QyMy00MTFlLTgxMjYtZjhhMzI5Y2M0ZDE4XC9kY3FvenFhLWUwNGQ1MWI3LThiZjYtNGEwNS1iMTkwLWZmZWQ4MWIyOWEzNi5wbmciLCJ3aWR0aCI6Ijw9MTAyNCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.QFGNHkP_o-0t0s4xVyH7Oo1AMHluenQhlAwyeugQTeg); */
+    /* background-color: indigo; */
+    background-color: indigo;
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: aliceblue;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border: 2px solid black;
+    padding: 2px;
+    width: 100%;
+}
+.centerme{
+    display: block;
+    margin: auto;
+}
+ol{
+    background-color: black;
+}
+.common{
+    position: absolute;
+    display: block;
+    margin: auto
+}
+.footer{
+    z-index: 1;
+    position: fixed;
+    bottom: 0px;
+    right: 0px;
+    left: 0px;
+    display: block;
+    text-align: center;
+    background-color: aliceblue;
+}
+.header{
+    top: 0px;
+}
+.mainbody{
+    top: 400px;
+}
+.link{
+    background-color: gray;
+}
